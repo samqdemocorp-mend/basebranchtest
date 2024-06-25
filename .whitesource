@@ -1,0 +1,6 @@
+{
+  "settingsInheritedFrom": "samqdemocorp-mend/whitesource-config@main",
+  "scanSettings": {
+    "baseBranches": ["dev"]
+  }
+}
